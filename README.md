@@ -1,5 +1,6 @@
 ## Solar System with Three.js
 This project is a web-based visualization of the Solar System built with Three.js, a popular JavaScript library for creating 3D graphics.
+### [Live Link :link:	](https://bappy4u.github.io/Solar-System/)
 
 ### Features:
 Explore the Solar System in a 3D environment.
