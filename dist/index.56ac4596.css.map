@@ -1,0 +1,1 @@
+{"mappings":"ACAA,2BAIA","sources":["index.56ac4596.css","src/style.css"],"sourcesContent":["body {\n  height: 100vh;\n  margin: 0;\n}\n\ncanvas {\n  display: block;\n}\n\n/*# sourceMappingURL=index.56ac4596.css.map */\n","body {\r\n    margin: 0px;\r\n    height: 100vh;\r\n}\r\ncanvas {\r\n    display: block;\r\n}"],"names":[],"version":3,"file":"index.56ac4596.css.map"}
